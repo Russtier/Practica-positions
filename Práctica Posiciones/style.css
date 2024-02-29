@@ -35,10 +35,10 @@ header {
 
 .sidebar {
   border: 1px dotted rgb(208, 250, 146);
-  position: absolute;
+  position: relative;
   width: 150px;
-  top: 110px;
-  right: 30px;
+  top: 140px;
+  left: 85%;
   padding-bottom: 3px;
 }
 
